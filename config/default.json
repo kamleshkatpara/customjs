@@ -1,0 +1,11 @@
+{
+    "server": {
+        "port": 3000
+    },
+    "database": {
+        "url": "mongodb://root:root123@ds137008.mlab.com:37008/todos"
+    },
+    "upload": {
+        "folder": "uploads/"
+    }
+}
